@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, 👋  my name is Zeina
+
+- I’m currently working at Fatima Fellowship as a Research Fellow probe multilingual/low-resource language models for factual knowledge.
+- I'm CoRise Ambassador! 
+- I'm looking to collaborate on ML projects in healthcare or education 
+- Feel free to connect me in [LinkedIn](https://www.linkedin.com/in/jszeina/)
 
 <!--
 **zeinasaadeddin/zeinasaadeddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
