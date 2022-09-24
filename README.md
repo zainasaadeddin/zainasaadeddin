@@ -1,4 +1,4 @@
-### Hi, 👋  my name is Zeina
+### Hello everyone! 👋  
 
 - I’m currently working at [Fatima Fellowship](https://www.fatimafellowship.com/) as a Research Fellow probe multilingual/low-resource language models for factual knowledge.
 - I'm [CoRise](https://corise.com/) Ambassador! 
