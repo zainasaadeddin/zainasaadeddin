@@ -2,7 +2,7 @@
 
 - I’m currently a Research Fellow at [Fatima Fellowship](https://www.fatimafellowship.com/) 🌎 probe multilingual/low-resource language models for factual knowledge.
 - I'm [CoRise](https://corise.com/) Student and Ambassador! ✨
-- I'm looking to collaborate on ML/DL/NLP projects or research labs in healthcare / medicine related domains 🚀
+- I'm looking to collaborate on ML/DL/NLP projects or research labs in healthcare / medicine / pharma related domains 🚀
 - [LinkedIn](https://www.linkedin.com/in/jszeina/)  | [twitter](https://twitter.com/jszeina)
 
 <!--
