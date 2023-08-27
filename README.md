@@ -3,7 +3,7 @@
 - Recently finished my Research Fellowship at [Fatima Fellowship](https://www.fatimafellowship.com/) 🌎 worked on probing multilingual/low-resource language models for factual knowledge.
 - I'm [Uplimit](https://uplimit.com/) Student, TA consulting and Ambassador! ✨
 - I'm looking to collaborate on ML/DL/NLP projects or research labs 🚀
-- [LinkedIn](https://www.linkedin.com/in/zainasaadeddin/)  | [twitter](https://twitter.com/zainasaadeddin)
+- [LinkedIn](https://www.linkedin.com/in/zainasaadeddin/)  | [Twitter](https://twitter.com/zainasaadeddin)
 
 <!--
 **zeinasaadeddin/zeinasaadeddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
