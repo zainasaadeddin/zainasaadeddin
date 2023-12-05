@@ -1,4 +1,6 @@
-### Hello everyone! 👋  
+### Hi! 👋  
+
+I'm Zaina, an independent machine-learning engineer from Palestine. I'm very passionate about building tools and products that link students with industry internships based on their skills and to direct them to their fit environments. 
 
 - Recently finished my Research Fellowship at [Fatima Fellowship](https://www.fatimafellowship.com/) 🌎 worked on probing multilingual/low-resource language models for factual knowledge.
 - I'm [Uplimit](https://uplimit.com/) Student, TA consulting and Ambassador! ✨
